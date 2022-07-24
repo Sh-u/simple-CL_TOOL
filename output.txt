@@ -1,0 +1,3 @@
+Let’s run the program again with arguments that don’t 
+cause an error but 
+still redirect standard output to a file, like so:
